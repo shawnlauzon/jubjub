@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "site",
+  "name": "jubjub",
   "version": "1.0.0",
   "license": "MIT",
   "scripts": {
@@ -11,6 +11,7 @@
   "dependencies": {
     "@narative/gatsby-theme-novela": "^0.18.2",
     "gatsby": "^2.24.82",
+    "gatsby-remark-embed-video": "^3.0.10",
     "react": "^16.14.0",
     "react-dom": "^16.14.0"
   }
