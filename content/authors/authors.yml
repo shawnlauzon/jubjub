@@ -1,0 +1,7 @@
+- name: Shawn Lauzon
+  bio: |
+    Written by Shawn Lauzon who lives on Koh Phangan
+  avatar: ./avatars/shawn-lauzon.png
+  featured: true
+  social:
+    - url: https://github.com/shawnlauzon
