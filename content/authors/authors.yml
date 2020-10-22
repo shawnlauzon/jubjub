@@ -2,6 +2,12 @@
   bio: |
     Written by Shawn Lauzon who lives on Koh Phangan
   avatar: ./avatars/shawn-lauzon.png
-  featured: true
+  featured: false
   social:
     - url: https://github.com/shawnlauzon
+- name: Jackie Vu
+  bio: |
+    Jackie Vu. TV show winner, excellent comfort dog, purveyor of ice cream
+    flavors. Let's find a way to smile together
+  avatar: ./avatars/jackie-vu.jpg
+  featured: true
