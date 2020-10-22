@@ -7,13 +7,13 @@ module.exports = {
     // Used to provide alt text for your avatar
     author: `Shawn Lauzon`,
     // Used for SEO
-    description: `Whimsical travel advice created by fairies and magicians`,
+    description: `Jackie's guide to Koh Phangan`,
     // Used for resolving images in social cards
     siteUrl: `https://jubjub.fun`,
 
     // important to set the main text that appears in the hero
     hero: {
-      heading: `Whimsical travel advice created by fairies and magicians`,
+      heading: `Jackie's guide to Koh Phangan`,
       maxWidth: 652,
     },
     // Used for social links in the root footer
