@@ -107,6 +107,7 @@ const GridControlsContainer = styled.div`
 `;
 
 const HeadingContainer = styled.div`
+  // Updated to shrink the vertical spacing on the front screen
   margin: 50px 0;
 
   ${mediaqueries.desktop`
