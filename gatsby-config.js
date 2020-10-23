@@ -14,16 +14,16 @@ module.exports = {
     // important to set the main text that appears in the hero
     hero: {
       heading: `Jackie's guide to Koh Phangan`,
-      maxWidth: 752,
+      maxWidth: 52,
     },
     // Used for social links in the root footer
     social: [
       {
-        name: `Twitter`,
+        name: "twitter",
         url: `https://twitter.com/jubjub`,
       },
       {
-        name: `GitHub`,
+        name: "github",
         url: `https://github.com/jubjub`,
       },
     ],
